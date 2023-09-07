@@ -10,7 +10,7 @@ export default function HeroImg() {
         <img className="into-img" src={IntroImg} alt="Loading" />
       </div>
       <div className="content">
-        <p>HI, I'M Shreenath</p>
+        <p>HI, I'm Shreenath</p>
         <h1> React Developer</h1>
         <Link to="/projects" className="btn">
           Projects
